@@ -1,0 +1,4 @@
+langchain-google-genai
+browser-use  # Replace with actual package (e.g., playwright, selenium)
+google-adk   # Replace with actual package name
+python-dotenv
